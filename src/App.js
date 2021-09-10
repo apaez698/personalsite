@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test Pull
+          Test Pull as invite
         </p>
         <a
           className="App-link"
